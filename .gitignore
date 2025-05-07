@@ -1,0 +1,62 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+
+# Django
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de configuraciones de IDEs
+.vscode/
+.idea/
+
+# Archivos de configuración de Python
+*.coverage
+*.hypothesis/
+.tox/
+.nox/
+.coverage/
+*.coverage.*
+*.log
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Archivos de compilación
+build/
+dist/
+
+# Directorios de caché
+*.cache
+*.eggs
+.eggs/
+.installed.cfg
+lib/
+lib64/
+__pycache__/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de Django
+*.sqlite3
+*.db
+
+# Archivos de imágenes generados
+*.png
+*.jpg
+*.jpeg
+*.gif
